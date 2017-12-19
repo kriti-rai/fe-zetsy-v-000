@@ -55,7 +55,7 @@ h1 {
 }
 
  /*//////////FEATURED//////////*/
- 
+
 #featured img {
 	border: 5px rgb(152,173,166) solid;
 }
@@ -80,11 +80,12 @@ p {
 	text-decoration:underline;
 }
 
-/*//////PRESS////*/
+/*///////////////////PRESS///////////////*/
 
 #Press img {
 	border: 5px #ccc solid;
 	}
+	
 #Press img:hover {
 	border: 5px rgb(111,127,122) solid;
 }

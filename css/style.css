@@ -76,7 +76,7 @@ footer {
 }
 
 /*/////TRANSITION-PROPERTY TO HEADING/////*/
-.heading header {
+.heading h1 {
 	width: 10px;
 	height:20px;
 	background: red;

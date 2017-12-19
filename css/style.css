@@ -22,16 +22,11 @@ body {
 
 /* Write all remaining styles here */
 
-/*////BODY//////*/
-#featured img {
-	border: 5px rgb(152,173,166) solid;
-}
-
+/*///////////HEADING//////*/
 header a {
 	color: rgb(152,173,166);
 	text-decoration: none;
 }
-
 h1 {
 	font-size: 5em;
 	font-family: 'Baskerville', serif;
@@ -54,6 +49,11 @@ h1 {
 	background-color:#b7d7e8;
 	cursor:pointer;
 }
+
+#featured img {
+	border: 5px rgb(152,173,166) solid;
+}
+
 h2 {
 	font-size:2em;
 	color: rgb(111,127,122);

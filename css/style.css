@@ -40,7 +40,7 @@ h1 {
 	margin: 0 0 5px;
 }
 .heading {
-	background: pink;
+	background: #f4e1d2;
 	-webkit-transition:background-color 2s ease-out;
 	-moz-transition:background-color 2s ease-out;
 	-o-transition:background-color 2s ease-out;
@@ -51,7 +51,7 @@ h1 {
 }
 .heading:hover {
 	text-decoration: none;
-	background-color: #f4e1d2;
+	background-color:#77a8a8 ;
 	cursor:pointer;
 }
 h2 {

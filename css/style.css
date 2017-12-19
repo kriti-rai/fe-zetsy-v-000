@@ -38,10 +38,13 @@ h1 {
 	border-bottom: 1px #ccc solid;
 	padding-bottom: 10px;
 	margin: 0 0 5px;
+	transition: background-color 2s ease-out;
 }
 h1 a:hover {
 	color: rgb(111,127,122);
 	text-decoration: none;
+	background-color: purple;
+	cursor:pointer;
 }
 h2 {
 	font-size:2em;
@@ -75,13 +78,7 @@ footer {
 	text-align: right;
 }
 
-/*/////TRANSITION-PROPERTY TO HEADING/////*/
-.heading h1 {
-	width: 10px;
-	background: red;
-	/*margin: 0 auto;
-	transition: background-color 2s ease-out;*/
-}
+
 /*.heading:hover {
 	background-color: purple;
 	cursor:pointer;

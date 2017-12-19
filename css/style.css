@@ -43,7 +43,7 @@ h1 {
 	-o-transition:background-color 2s ease-out;
 	transition: background-color 2s ease-out;
 }
-h1 a:hover {
+.heading:hover {
 	color: rgb(111,127,122);
 	text-decoration: none;
 	background-color: #f4e1d2;

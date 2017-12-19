@@ -80,10 +80,10 @@ footer {
 	width: 10px;
 	height:20px;
 	background-color: red;
-	margin: 0 auto;
-	transition: background-color 2s ease-out;
+	/*margin: 0 auto;
+	transition: background-color 2s ease-out;*/
 }
-.heading:hover {
+/*.heading:hover {
 	background-color: purple;
 	cursor:pointer;
-}
+}*/

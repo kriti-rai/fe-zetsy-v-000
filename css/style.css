@@ -40,7 +40,7 @@ h1 {
 	margin: 0 0 5px;
 	background: pink;
 }
-.heading {
+.heading h1 {
 	-webkit-transition:background-color 2s ease-out;
 	-moz-transition:background-color 2s ease-out;
 	-o-transition:background-color 2s ease-out;

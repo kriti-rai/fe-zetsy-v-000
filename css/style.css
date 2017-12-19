@@ -85,15 +85,17 @@ p {
 #Press img {
 	border: 5px #ccc solid;
 	}
-	
+
 #Press img:hover {
 	border: 5px rgb(111,127,122) solid;
 }
 
-/*////FOOTER////*/
+/*//////////FOOTER//////////*/
+
 .small {
 	font-size:0.8em;
 }
+
 footer {
 	text-align: right;
 }
